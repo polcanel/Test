@@ -1,3 +1,0 @@
-this is a text for the third file
-123456789
-the end
